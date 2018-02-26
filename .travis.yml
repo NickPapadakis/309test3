@@ -3,9 +3,9 @@ sudo: false
 install: true
 addons:
   sonarcloud:
-    organization: "nickpapadakis-github"
+    organization: nickpapadakis-github
     token:
-      secure: "52bcac796ac7be9bcc6fafbac3bd361fda059513"
+      secure: 52bcac796ac7be9bcc6fafbac3bd361fda059513
 jdk:
   - oraclejdk8
 script:
