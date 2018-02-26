@@ -1,11 +1,11 @@
 language: java
 sudo: false
 install: true
-addons:
-  sonarcloud:
-    organization: nickpapadakis-github
-    token:
-      secure: 5af7c3580e2f246e70d11e1c12c25fb9dda97830
+#addons:
+#  sonarcloud:
+#    organization: nickpapadakis-github
+#    token:
+#      secure: 5af7c3580e2f246e70d11e1c12c25fb9dda97830
 jdk:
   - oraclejdk8
 script:
