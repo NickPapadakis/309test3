@@ -5,7 +5,7 @@ addons:
   sonarcloud:
     organization: nickpapadakis-github
     token:
-      secure: 52bcac796ac7be9bcc6fafbac3bd361fda059513
+      secure: 5af7c3580e2f246e70d11e1c12c25fb9dda97830
 jdk:
   - oraclejdk8
 script:
